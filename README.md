@@ -5,13 +5,20 @@ Dark mode support ensures a comfortable experience for both day and night usage.
 
 🛠 Features
 Add Expense — Enter a description and amount, then log it with one click.
+
 Delete Expense — Remove a specific entry from the list.
+
 Clear All — Wipe all expenses instantly (with confirmation).
+
 Total Calculation — Automatically updates the total amount spent.
+
 Dark Mode Toggle — Switch between light and dark themes.
+
 Persistent Storage — Saves data in localStorage so entries remain after refreshing or closing the browser.
 
 💻 Tech Stack
 HTML – Page structure and layout.
+
 CSS – Styling and theme customization.
+
 JavaScript – Functional logic, DOM manipulation, and local storage management.
