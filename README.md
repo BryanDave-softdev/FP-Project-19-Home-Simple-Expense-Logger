@@ -26,3 +26,8 @@ HTML – Page structure and layout.
 CSS – Styling and theme customization.
 
 JavaScript – Functional logic, DOM manipulation, and local storage management.
+
+
+## 📷 Screenshot
+![Simple Expense Logger](expense-logger.PNG)
+
